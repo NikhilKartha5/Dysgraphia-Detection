@@ -55,7 +55,7 @@ The Flask backend exposes `/api/predict` for ML-powered handwriting analysis. Se
 - Python, Flask, TensorFlow, Google Gemini AI
 
 ## License
-Released under the GPL. See LICENSE for details.
+Released under the MIT License. See LICENSE for details.
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
