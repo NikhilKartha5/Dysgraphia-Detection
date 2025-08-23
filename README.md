@@ -10,13 +10,18 @@ This project is published as:
 
 # Project Summary
 
-**Dysgraphia Detection Web App | React, Flask, TensorFlow, PyTorch, Gemini**  
-*Jan 2025– Mar 2025*
 
-- Built a full-stack web app allowing users to upload handwriting samples for dysgraphia diagnosis and receive clear, structured reports; model trained on 249 images and tested on 50+ real entries.
-- Developed a CNN-BiLSTM model with 91% accuracy on handwriting classification, expanded dataset with 900+ GAN samples, and integrated LLM to detect dysgraphia symptoms with 30% improved interpretability.
+## Overview
 
-An advanced web application for automated dysgraphia screening using deep learning and generative AI. Built with Next.js, TypeScript, Tailwind CSS, and a Python Flask API.
+Dysgraphia Detection Web App is a full-stack platform (React, Flask, TensorFlow, PyTorch, Gemini) developed from Jan 2025 to Mar 2025. The application enables users to upload handwriting samples for dysgraphia diagnosis and receive clear, structured reports.
+
+### Key Features and Results
+- The model was trained on 249 handwriting images and tested on 50+ real entries.
+- A custom CNN-BiLSTM architecture achieved 91% accuracy in handwriting classification.
+- The dataset was expanded with 900+ GAN-generated samples to improve robustness.
+- An integrated LLM (Large Language Model) detects dysgraphia symptoms, improving interpretability by 30%.
+
+This advanced web application provides automated dysgraphia screening using deep learning and generative AI. The stack includes Next.js, TypeScript, Tailwind CSS, and a Python Flask API.
 
 ## Features
 - Upload handwriting samples and receive instant dysgraphia risk analysis
