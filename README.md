@@ -2,7 +2,10 @@
 # Dysgraphia Detection Web Platform
 # Reference
 
-This project is inspired by and references the following publication:
+
+## Publication
+
+This project is published as:
 - [Dysgraphia Detection Using Deep Learning Techniques](https://ieeexplore.ieee.org/document/11089394) (IEEE Xplore)
 
 # Project Summary
